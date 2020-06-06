@@ -1,0 +1,21 @@
+.filme-info {
+    display: flex;
+    flex-direction: column;
+    max-width: 900px;
+    min-height: 800px;
+}
+
+.filme-info img {
+    border-radius: 50px;
+}
+
+.btnVoltar {
+    text-decoration: none;
+    background-color: brown;
+    color: #fff;
+    margin-top: 30px;
+    text-align: center;
+    width: 50px;
+    padding: 10px 20px;
+    height: 25px;
+}
